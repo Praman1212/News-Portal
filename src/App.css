@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+:root{
+  --heading: 'Montserrat' , sans-serif;
+  /* color */
+  --color-bg-dark-1:#081c15;
+  --color-bg-dark-2:#1b4332;
+  --color-bg-dark-3:#2d6a4f;
+  --color-bg-dark-4:#40916c;
+  --color-bg-dark-5:#52b788;
+  --color-bg-dark-6:#74c69d;
+  --color-bg-dark-7:#95d5b2;
+  --color-bg-dark-8:#b7e4c7;
+  --color-bg-dark-9:#d8f3dc;
+
+}
+a{
+  text-decoration: none;
+  color: #000;
+}

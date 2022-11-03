@@ -1,0 +1,40 @@
+.advert__container{
+    background-color: var(--color-bg-dark-9);
+    margin: 1rem 5rem;
+    padding: 0.5rem;
+}
+.advert-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.date{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.icons{
+    display: flex;
+    justify-content: space-around; 
+    gap: 5rem;  
+}
+.media{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.btn{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.btn a:hover{
+    text-decoration: underline;
+
+}
+.media .facebook{
+    color: #4267B2;
+}
+.media .youtube{
+    color: red;
+}
