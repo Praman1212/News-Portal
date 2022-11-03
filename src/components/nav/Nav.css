@@ -32,7 +32,6 @@ a{
     margin: 1rem 5rem;
     height: auto;
     align-items: center;
-    /* background-color: var(--color-bg-dark-1); */
     height: 5rem;
     align-items: center;
 }
@@ -44,6 +43,7 @@ a{
 }
 .navigation-bar{
     background: transparent;
+    
 }
 .navigation-bar ul{
     display: flex;
