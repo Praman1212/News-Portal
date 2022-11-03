@@ -1,0 +1,54 @@
+.advertisement{
+    margin: 1rem 5rem;
+    height: auto;
+    align-items: center;
+    height: 5rem;    
+}
+.advertisement-container{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    gap: 2rem;
+}
+.advertisement-container-I{
+    width: 65%;
+}
+
+.container-section-I{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0.3rem;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.advert__1, .advert__2, .advert__3{
+    margin: 0.2rem;
+}
+img{
+    transition: box-shadow .3s;
+    height: 25vh;
+    width: 100%;
+    gap: 1rem;
+}
+img:hover{
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.advertisement-container-II{
+    width: 35%;
+}
+.container-section-II{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+
+}
+.advert__4{
+    width: 100%;
+    padding: 1.2rem;
+}
+.vertical__advert{
+    
+}
