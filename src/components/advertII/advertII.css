@@ -42,7 +42,8 @@ img:hover{
     display: flex;
     justify-content:space-around;
     align-items: center;
-    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    border: solid var(--color-bg-dark-6) 1px;
+    /* box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5); */
 
 }
 .advert__4{
@@ -50,5 +51,11 @@ img:hover{
     padding: 1.2rem;
 }
 .vertical__advert{
-    
+    /* border: solid var(--color-bg-dark-6) 2px; */
+    padding: 0.1rem;
+    /* box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5); */
+}
+.vertical__image img{
+    height: 75vh;
+    padding: 0.3rem;
 }
