@@ -23,7 +23,7 @@
 }
 
 .advert__1, .advert__2, .advert__3{
-    margin: 0.2rem;
+    margin: 0.1rem;
 }
 img{
     transition: box-shadow .3s;
@@ -34,10 +34,24 @@ img{
 img:hover{
     box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
+.container-sub-section-I{
+    margin-top: 2rem;
+}
+.sub-line{
+    border: solid var(--color-bg-dark-6) 0.5px;
+    width: 21%;
+}
+.trending-news-section{
+    /* border: solid var(--color-bg-dark-6) 1px; */
+    margin: 2rem 0rem;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    height: 43vh;
 
+}
 .advertisement-container-II{
     width: 35%;
 }
+
 .container-section-II{
     display: flex;
     justify-content:space-around;
@@ -59,3 +73,5 @@ img:hover{
     height: 75vh;
     padding: 0.3rem;
 }
+/* Adding css */
+/* @import url("https://cdn.syncfusion.com/ej2/20.1.48/bootstrap5.css") */

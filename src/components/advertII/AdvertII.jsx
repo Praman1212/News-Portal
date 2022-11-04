@@ -21,6 +21,22 @@ const AdvertII = () => {
                             <img src={Trek} alt="" />
                         </div>
                     </div>
+                    <div className="container-sub-section-I">
+                        <div className="trending-news">
+                            <h1>Trending news </h1>
+                        </div>
+                        <div className="sub-line">
+
+                        </div>
+                        <div className="container-trending-news">
+                            <div className="trending-news-border">
+                                <div className="trending-news-section">
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div className="advertisement-container-II">
                     <div className="container-section-II">
