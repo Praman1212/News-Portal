@@ -3,6 +3,7 @@ import Nav from './components/nav/Nav'
 import Top from './components/top/Top'
 import Advert from './components/advert/Advert'
 import AdvertII from './components/advertII/AdvertII'
+import Mainnews from './components/main-news/Mainnews'
 
 
 const App = () => {
@@ -12,6 +13,7 @@ const App = () => {
             <Advert />
             <Nav />
             <AdvertII />
+            <Mainnews />
         </>
     )
 }

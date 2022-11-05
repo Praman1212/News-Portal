@@ -23,7 +23,7 @@ const AdvertII = () => {
                     </div>
                     <div className="container-sub-section-I">
                         <div className="trending-news">
-                            <h1>Trending news </h1>
+                            <h2>Trending news </h2>
                         </div>
                         <div className="sub-line">
 
@@ -31,9 +31,7 @@ const AdvertII = () => {
                         <div className="container-trending-news">
                             <div className="trending-news-border">
                                 <div className="trending-news-section">
-
                                 </div>
-
                             </div>
                         </div>
                     </div>
@@ -43,7 +41,7 @@ const AdvertII = () => {
                         <div className="advert__4">
                             <div className="vertical__advert">
                                 <div className="vertical__image">
-                                    <img src={Radio} alt="" />
+                                    <img className='img' src={Radio} alt="" />
                                 </div>
                             </div>
                         </div>
