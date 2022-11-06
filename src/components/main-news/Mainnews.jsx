@@ -12,14 +12,14 @@ const Mainnews = () => {
             <div className="main-news-line"></div>
             <div className="sub-container-main-news">
                 <div className="main-news-section-I">
-                    <div className="box-section-I">
+                    <div className="box-section-I__I">
                         <div className="main-news-box-I">
                             <a href='#' className="main-news-btn-I">
                                 <div className="box-I-image-section">
                                     <img src={bitcoin} alt="" />
                                 </div>
                                 <div className="box-I-text-section">
-                                    <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus magni delectus veniam autem quisquam ab assumenda. Unde, minus molestias earum culpa iusto nisi accusantium odit debitis exercitationem vero soluta.</h5>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus magni delectus veniam autem quisquam ab assumenda. Unde, minus molestias earum culpa iusto nisi accusantium odit debitis exercitationem vero soluta.</p>
                                 </div>
                             </a>
                         </div>
@@ -29,12 +29,12 @@ const Mainnews = () => {
                                     <img src={Stock} alt="" />
                                 </div>
                                 <div className="box-II-text-section">
-                                    <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus magni delectus veniam autem quisquam ab assumenda. Unde, minus molestias earum culpa iusto nisi accusantium odit debitis exercitationem vero soluta.</h5>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus magni delectus veniam autem quisquam ab assumenda. Unde, minus molestias earum culpa iusto nisi accusantium odit debitis exercitationem vero soluta.</p>
                                 </div>
                             </a>
                         </div>
                     </div>
-                    <div className="box-section-II">
+                    <div className="box-section-I__II">
                         <div className="news-box">
                             <div className="news-item">
                                 <div className="news__">
@@ -133,7 +133,7 @@ const Mainnews = () => {
 
                 </div>
                 <div className="main-news-section-II">
-                    <div className="box-section-II">
+                    <div className="box-section-II__I">
                         <div className="section-II-heading">
                             <a href="#"><h2>Latest News</h2></a>
                             <a href="#"><h2>Trending News</h2></a>
@@ -216,6 +216,26 @@ const Mainnews = () => {
                                     </p>
                                 </div>
                                 <div className="sub-line-text"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div className="box-section-II__II">
+                        <div className="advertisement-section__">
+                            <div className="advertisment-border__">
+                                <div className="advertisement-image__1">
+                                    <img src={Stock} alt="" />
+                                </div>
+                            </div>
+                            <div className="advertisment-border__">
+                                <div className="advertisement-image__2">
+                                    <img src={Stock} alt="" />
+                                </div>
+                            </div>
+                            <div className="advertisment-border__">
+                                <div className="advertisement-image__2">
+                                    <img src={Stock} alt="" />
+                                </div>
                             </div>
 
                         </div>
