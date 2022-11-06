@@ -41,6 +41,9 @@
 .box-II-image-section{
     padding: 0.6rem;
 }
+.box-II-text-section{
+    padding: 0.6rem;
+}
 /* Section-II Css */
 .main-news-section-II{
     width: 35%;
@@ -70,4 +73,36 @@
 }
 .sub-line-text{
     border: solid var(--color-bg-dark-9) 0.5px;
+}
+.news-box{
+    margin: 2rem 0 0 0;
+    border: solid var(--color-bg-dark-9) 2px;
+    /* height: 20vh;  */
+}
+.news-border{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+}
+.news-image{
+    width: 45%;
+}
+.news-image img{
+    height:9.76rem;
+    padding: 0.5rem;
+}
+.news-text{
+    width: 55%;
+    padding: 0.3rem;
+}
+.news-heading h4{
+    color: var(--color-bg-dark-3);
+}
+.news-line-text{
+    border: solid var(--color-bg-dark-9) 0.5px;
+    margin: 0 0.8rem 0 0.8rem;
+}
+.news__{
+    padding: 1rem;
 }
