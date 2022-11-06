@@ -34,6 +34,103 @@ const Mainnews = () => {
                             </a>
                         </div>
                     </div>
+                    <div className="box-section-II">
+                        <div className="news-box">
+                            <div className="news-item">
+                                <div className="news__">
+                                    <div className="news-border">
+                                        <div className="news-image">
+                                            <a href="#">
+                                                <img src={Stock} alt="" />
+                                            </a>
+                                        </div>
+                                        <div className="news-text">
+                                            <div className="news-heading">
+                                                <a href="#">
+                                                    <h4 >Share</h4>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis porro earum optio facere ducimus excepturi repellendus hic eos velit labore id nemo voluptatibus aliquam, voluptates ab dolore, veritatis aperiam at.</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="news-line-text"></div>
+                                <div className="news__">
+                                    <div className="news-border">
+                                        <div className="news-image">
+                                            <a href="#">
+                                                <img src={Stock} alt="" />
+                                            </a>
+                                        </div>
+                                        <div className="news-text">
+                                            <div className="news-heading">
+                                                <a href="#">
+                                                    <h4 >Share</h4>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis porro earum optio facere ducimus excepturi repellendus hic eos velit labore id nemo voluptatibus aliquam, voluptates ab dolore, veritatis aperiam at.</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="news-line-text"></div>
+                                <div className="news__">
+                                    <div className="news-border">
+                                        <div className="news-image">
+                                            <a href="#">
+                                                <img src={Stock} alt="" />
+                                            </a>
+                                        </div>
+                                        <div className="news-text">
+                                            <div className="news-heading">
+                                                <a href="#">
+                                                    <h4 >Share</h4>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis porro earum optio facere ducimus excepturi repellendus hic eos velit labore id nemo voluptatibus aliquam, voluptates ab dolore, veritatis aperiam at.</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="news-line-text"></div>
+                                <div className="news__">
+                                    <div className="news-border">
+                                        <div className="news-image">
+                                            <a href="#">
+                                                <img src={Stock} alt="" />
+                                            </a>
+                                        </div>
+                                        <div className="news-text">
+                                            <div className="news-heading">
+                                                <a href="#">
+                                                    <h4 >Share</h4>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis porro earum optio facere ducimus excepturi repellendus hic eos velit labore id nemo voluptatibus aliquam, voluptates ab dolore, veritatis aperiam at.</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="news-line-text"></div>
+                                <div className="news__">
+                                    <div className="news-border">
+                                        <div className="news-image">
+                                            <a href="#">
+                                                <img src={Stock} alt="" />
+                                            </a>
+                                        </div>
+                                        <div className="news-text">
+                                            <div className="news-heading">
+                                                <a href="#">
+                                                    <h4 >Share</h4>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis porro earum optio facere ducimus excepturi repellendus hic eos velit labore id nemo voluptatibus aliquam, voluptates ab dolore, veritatis aperiam at.</p>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="news-line-text"></div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
                 <div className="main-news-section-II">
                     <div className="box-section-II">
