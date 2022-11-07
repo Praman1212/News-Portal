@@ -23,7 +23,11 @@
 }
 .headline-image-section__1 img{
     height: 16vh;
+    width: 100%;
     /* width: fit-content; */
+}
+.headline-image-section__1{
+    width: 35%;
 }
 .headline-text-section__1{
     width: 67%;
@@ -62,6 +66,9 @@
 .headline-image-section__3 img{
     height: 16vh;
     /* width: fit-content; */
+}
+.headline-image-section__3{
+    width: 35%;
 }
 .headline-text-section__3{
     width: 67%;
