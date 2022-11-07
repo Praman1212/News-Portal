@@ -1,6 +1,6 @@
 import React from 'react'
 import './headline.css'
-import Stock from '../../assets/bitcoin.jpg'
+import Stock from '../../assets/main-news/bitcoin.jpg'
 // import Lambo from '../../assets/Lambo.jpg'
 import Wordpress from '../../assets/20150429160658-website-traffic.jpg'
 import Apple from '../../assets/headline/apple-logo-words.jpg'

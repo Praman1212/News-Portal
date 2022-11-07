@@ -1,7 +1,11 @@
 import React from 'react'
 import './Main-news.css'
-import bitcoin from '../../assets/bitcoin.jpg'
-import Stock from '../../assets/stock-nepse-market.jpg'
+import Perfume from '../../assets/main-news/advertisment/8 d Avvenice -  CR7 - New Collection - Cristiano Ronaldo - Models - Fashion - Milano - Underwear - prodotti.jpg'
+import Coke from '../../assets/main-news/advertisment/Adsiz-tasarim-4.jpg'
+import Work from '../../assets/main-news/advertisment/Fairy---Some-things-are-hard-to-separate.jpg'
+import Cricket from '../../assets/main-news/HD-wallpaper-cricket-dk-kkr-sunset-vintage.jpg'
+import Stock from '../../assets/main-news/stock-nepse-market.jpg'
+import Bitcoin from '../../assets/main-news/bitcoin.jpg'
 
 const Mainnews = () => {
     return (
@@ -16,7 +20,7 @@ const Mainnews = () => {
                         <div className="main-news-box-I">
                             <a href='#' className="main-news-btn-I">
                                 <div className="box-I-image-section">
-                                    <img src={bitcoin} alt="" />
+                                    <img src={Perfume} alt="" />
                                 </div>
                                 <div className="box-I-text-section">
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus magni delectus veniam autem quisquam ab assumenda. Unde, minus molestias earum culpa iusto nisi accusantium odit debitis exercitationem vero soluta.</p>
@@ -224,17 +228,17 @@ const Mainnews = () => {
                         <div className="advertisement-section__">
                             <div className="advertisment-border__">
                                 <div className="advertisement-image__1">
-                                    <img src={Stock} alt="" />
+                                    <img src={Perfume} alt="" />
                                 </div>
                             </div>
                             <div className="advertisment-border__">
                                 <div className="advertisement-image__2">
-                                    <img src={Stock} alt="" />
+                                    <img src={Coke} alt="" />
                                 </div>
                             </div>
                             <div className="advertisment-border__">
                                 <div className="advertisement-image__2">
-                                    <img src={Stock} alt="" />
+                                    <img src={Work} alt="" />
                                 </div>
                             </div>
 

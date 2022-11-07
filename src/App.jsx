@@ -5,6 +5,7 @@ import Advert from './components/advert/Advert'
 import AdvertII from './components/advertII/AdvertII'
 import Mainnews from './components/main-news/Mainnews'
 import Headline from './components/headline/Headline'
+import AdvertIII from './components/advertIII/AdvertIII'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
             <AdvertII />
             <Mainnews />
             <Headline />
+            <AdvertIII />
         </>
     )
 }
