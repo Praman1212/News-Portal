@@ -4,6 +4,7 @@ import Top from './components/top/Top'
 import Advert from './components/advert/Advert'
 import AdvertII from './components/advertII/AdvertII'
 import Mainnews from './components/main-news/Mainnews'
+import Headline from './components/headline/Headline'
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
             <Nav />
             <AdvertII />
             <Mainnews />
+            <Headline />
         </>
     )
 }
