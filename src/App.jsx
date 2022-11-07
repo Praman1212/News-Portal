@@ -6,6 +6,7 @@ import AdvertII from './components/advertII/AdvertII'
 import Mainnews from './components/main-news/Mainnews'
 import Headline from './components/headline/Headline'
 import AdvertIII from './components/advertIII/AdvertIII'
+import Sports from './components/sports/Sports'
 
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
             <Mainnews />
             <Headline />
             <AdvertIII />
+            <Sports />
         </>
     )
 }
