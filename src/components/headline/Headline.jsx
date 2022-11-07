@@ -3,6 +3,16 @@ import './headline.css'
 import Stock from '../../assets/bitcoin.jpg'
 // import Lambo from '../../assets/Lambo.jpg'
 import Wordpress from '../../assets/20150429160658-website-traffic.jpg'
+import Apple from '../../assets/headline/apple-logo-words.jpg'
+import Baby from '../../assets/headline/Baby.tux.sit-black-800x800.png'
+import BabyDog from '../../assets/headline/beagle-dog.png'
+import Twitter from '../../assets/headline/unnamed.png'
+import Iphone from '../../assets/headline/iPhone-screen-response-780x536.jpg'
+import Berger from '../../assets/headline/smallsubs_lg.jpg'
+import Women from '../../assets/headline/joyful-woman-bright-makeup-yellow-background-naked-shoulders-model-joyful-woman-bright-makeup-yellow-210363192.jpg'
+import Earth from '../../assets/headline/space_029-preview.jpg'
+import Cricket from '../../assets/headline/HD-wallpaper-cricket-dk-kkr-sunset-vintage.jpg'
+
 
 const Headline = () => {
     return (
@@ -22,7 +32,7 @@ const Headline = () => {
                                 <p>access_time१३ मिनेट अघि</p>
                             </div>
                             <div className="headline-image-section__1">
-                                <img src={Stock} alt="" />
+                                <img src={Apple} alt="" />
                             </div>
 
                         </div>
@@ -32,7 +42,7 @@ const Headline = () => {
                                 <p>access_time१३ मिनेट अघि</p>
                             </div>
                             <div className="headline-image-section__1">
-                                <img src={Stock} alt="" />
+                                <img src={Baby} alt="" />
                             </div>
 
                         </div>
@@ -42,7 +52,7 @@ const Headline = () => {
                                 <p>access_time१३ मिनेट अघि</p>
                             </div>
                             <div className="headline-image-section__1">
-                                <img src={Stock} alt="" />
+                                <img src={BabyDog} alt="" />
                             </div>
 
                         </div>
@@ -52,7 +62,7 @@ const Headline = () => {
                                 <p>access_time१३ मिनेट अघि</p>
                             </div>
                             <div className="headline-image-section__1">
-                                <img src={Stock} alt="" />
+                                <img src={Twitter} alt="" />
                             </div>
 
                         </div>
@@ -62,7 +72,7 @@ const Headline = () => {
                                 <p>access_time१३ मिनेट अघि</p>
                             </div>
                             <div className="headline-image-section__1">
-                                <img src={Stock} alt="" />
+                                <img src={Iphone} alt="" />
                             </div>
 
                         </div>
@@ -81,7 +91,7 @@ const Headline = () => {
                     <div className="headline-section-item__3">
                         <div className="flex-item__3">
                             <div className="headline-image-section__3">
-                                <img src={Stock} alt="" />
+                                <img src={Berger} alt="" />
                             </div>
                             <div className="headline-text-section__3">
                                 <h4>यु–१५ महिला च्याम्पियनसिप फुटबल :  आज नेपाल र बङ्गलादेश</h4>
@@ -90,7 +100,7 @@ const Headline = () => {
                         </div>
                         <div className="flex-item__3">
                             <div className="headline-image-section__3">
-                                <img src={Stock} alt="" />
+                                <img src={Women} alt="" />
                             </div>
                             <div className="headline-text-section__3">
                                 <h4>यु–१५ महिला च्याम्पियनसिप फुटबल :  आज नेपाल र बङ्गलादेश</h4>
@@ -99,7 +109,7 @@ const Headline = () => {
                         </div>
                         <div className="flex-item__3">
                             <div className="headline-image-section__3">
-                                <img src={Stock} alt="" />
+                                <img src={Earth} alt="" />
                             </div>
                             <div className="headline-text-section__3">
                                 <h4>यु–१५ महिला च्याम्पियनसिप फुटबल :  आज नेपाल र बङ्गलादेश</h4>
@@ -108,7 +118,7 @@ const Headline = () => {
                         </div>
                         <div className="flex-item__3">
                             <div className="headline-image-section__3">
-                                <img src={Stock} alt="" />
+                                <img src={Cricket} alt="" />
                             </div>
                             <div className="headline-text-section__3">
                                 <h4>यु–१५ महिला च्याम्पियनसिप फुटबल :  आज नेपाल र बङ्गलादेश</h4>
