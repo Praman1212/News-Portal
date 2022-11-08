@@ -18,7 +18,7 @@ const Sports = () => {
         <section className='Sports'>
             <div className="sport-section">
                 <div className="sport-heading">
-                    <h2>Headline</h2>
+                    <h2>Sports</h2>
                 </div>
                 <div className="sports-line">
 

@@ -1,0 +1,118 @@
+.footer{
+    background-color: var(--color-bg-dark-2);
+    color: #fff;
+    /* padding: 1rem; */
+}
+.footer-container{
+    padding: 1rem;
+}
+.footer-flex{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+.heading h3{
+    color: var(--color-bg-dark-1);
+    font-size: 26px;
+}
+/* <=========================  Flex__1 css =======================> */
+
+.flex__1{
+    align-items: center;
+    width: 20%;
+    text-align: center;
+}
+.flex__1__logo{
+    font-size: 2.5rem;
+}
+.mero{
+    color: var(--color-bg-dark-9);
+}
+.news{
+    color: black;
+}
+.vertical-line{
+    border-left: 2px solid #fff;
+    height: 200px;
+}
+.chairman, .editor, .location, .phone, .gmail{
+    padding: 7px;
+    letter-spacing: 1px;
+}
+/* <=========================== Vertical Line =======================> */
+.vertical__line{
+    height: 28vh;
+    border: solid #fff 0.5px ;
+}
+/* Flex-2 Css */
+.flex__2{
+    width: 20%;
+}
+.flex__2__heading__items{
+    margin: 1rem;
+}
+.flex__2__heading__items__btn a h3{
+    padding: 0.3rem;
+}
+.flex__2__heading__items a{
+    color: #fff;
+    font-size: 20px;
+}
+
+/* Flex - 3 Css */
+.flex__3{
+    width: 20%;
+}
+.flex__3__heading__items{
+    margin: 1rem;
+    font-size: 25px;
+    text-align:left;
+}
+.flex__3__heading__items a{
+    color: #fff;
+}
+.flex__3__heading__item__btn a h5{
+    padding: 0.4rem;
+}
+/* Flex-4 CSs */
+.flex__4{
+    width: 20%;
+}
+.flex__4__heading__items{
+    margin: 1rem;
+    font-size: 18px;
+}
+.flex__4__heading__items a{
+    color: #fff; 
+}
+.flex__4__heading__items__btn h5 {
+    padding: 0.5rem;
+    font-size: 15px;
+}
+/* <============================= flex__4__icons ==========================> */
+
+.flex__4__icon{
+    margin-right: 10px;
+}
+
+/* <========================= Icons Css of heading 2 ======================> */
+.flex__2__heading__items__btn .facebook{
+    color: #4267B2;
+}
+.flex__2__heading__items__btn .instagram{
+    color: #405DE6;
+}
+.flex__2__heading__items__btn .youtube{
+    color: #FF0000;
+}
+/* <====================================Developer Info ===========================> */
+.developer-info{
+    background-color:var(--color-bg-dark-1);
+}
+.copyright-section{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 5vh;
+}

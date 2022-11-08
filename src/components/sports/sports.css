@@ -12,7 +12,7 @@
 }
 .sports-line{
     border: solid var(--color-bg-dark-6) 0.5px;
-    width: 8.5%;
+    width: 6.5%;
 }
 
 /* Sports section I */
@@ -74,6 +74,6 @@
 .sports-image-section__3{
     width: 35%;
 }
-.sport-text-section__3{
+.sports-text-section__3{
     width: 67%;
 }
